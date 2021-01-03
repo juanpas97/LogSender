@@ -9,11 +9,15 @@ You can choose the port and the machine's IP that will receive the logs. Also yo
 -------------------- OPTIONS --------------------------
 
 -h, --h                show brief help
+
 -a, --ip               The IP of the machine that will receive the logs.
+
 -p, --port             The port to send the logs. By default is 514
+
 -t, --time             The seconds interval between logs. If no time is specified, the logs will be sent as fast as possible
 
 -------------------- PROTOCOLS --------------------------
 
 --tcp                  The protocol to be used. Only supports tcp/udp. By default is TCP
+
 --udp                  The protocol to be used. Only supports tcp/udp. By default is TCP
