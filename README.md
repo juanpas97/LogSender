@@ -1,14 +1,5 @@
 # LogSender
 
-  _                  _____                _           
- | |                / ____|              | |          
- | |     ___   __ _| (___   ___ _ __   __| | ___ _ __ 
- | |    / _ \ / _` |\___ \ / _ \ '_ \ / _` |/ _ \ '__|
- | |___| (_) | (_| |____) |  __/ | | | (_| |  __/ |   
- |______\___/ \__, |_____/ \___|_| |_|\__,_|\___|_|   
-               __/ |                                  
-              |___/                                   
-
 LogSender.sh is a bash script that will send randomized logs to the desired IP.
 You can choose the port and the machine's IP that will receive the logs. Also you can decide to send them through UDP or TCP.
 
