@@ -19,7 +19,7 @@ while test $# -gt 0; do
       echo "-------------------- OPTIONS --------------------------"
       echo " "
       echo "-h, --h                show brief help"
-      echo "-a, --ip               The IP of the event collector"
+      echo "-a, --ip               The IP of the machine that will receive the logs"
       echo "-p, --port             The port to send the logs. By default is 514"
       echo "-t, --time             The seconds interval between logs. If no time is specified, the logs will be sent as fast as possible"
       echo " "
